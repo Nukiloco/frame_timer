@@ -5,7 +5,13 @@ The advanced timer replacement for Godot!
 
 ## Install and enable
 To install FrameTimer, download the addon on the asset lib.
-Then whenever you want to use FrameTimer just drag and drop the FrameTimer scene onto your scene.
+Then go to ``Project > Plugins > FrameTimer`` and press ``Enable``.
+
+## Install and enable
+To install and enable Quik, download the addon on the asset lib.
+Then go to ``Project > Plugins > Quik`` and press ``Enable``.
+
+FrameTimer will automatically add in a new node ``FrameTimer`` to the project.
 
 ## Features
 Almost the same as Godot's built in Timer but also adding in:
