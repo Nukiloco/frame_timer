@@ -11,7 +11,7 @@
 /addons/frame_timer/assets/                        export-ignore
 
 # Include the 64x64 frame timer image
-/addons/frame_timer/assets/frame_timer_logo_node.png !export-ignore
+/addons/frame_timer/assets/frame_timer_logo_node.png* !export-ignore
 
 # Ignore the frame timer test folder as it's not required for the addon to function
 /addons/frame_timer/test/                          export-ignore
