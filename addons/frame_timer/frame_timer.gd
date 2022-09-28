@@ -29,7 +29,6 @@ func stop():
 
 func _process(_delta):
 	var current_time = OS.get_ticks_msec()
-	var cur_sec = current_time / 1000.0
 	
 	var diff = current_time - start_time
 	var diff_sec = diff / 1000.0
